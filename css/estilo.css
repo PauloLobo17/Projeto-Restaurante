@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(white ,yellow, orange);
+}
+
+
+
+h1{
+    font-size:  60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    color: red
+
+}
+
+hr{
+    width: 60%;
+   height: 10px;
+    background: orange(32,95%, 43%, 0.829);
+}
+
+p{
+    width: 60%;
+    margin: auto;
+    text-align: justify;
+
+}
+
+img{
+    height:200px;
+
+}
+
+.caixa{
+    width:fit-content;
+    margin: auto;
+}
+
+ .vx{
+    width:50%;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+ }
